@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "title": "Carbonara Pasta",
+      "image": "https://i.ibb.co/YdK9cwb/1.jpg",
+      "description": "Spaghetti Carbonara is a classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper. It's creamy, savory, and incredibly satisfying.",
+      "category": "Italian",
+      "textColor": "#2E8B57",
+      "categoryBg": "#CD5C5C",
+      "cardBg": "#F4A460",
+      "price": 12.99
+    },
+    {
+      "id": 2,
+      "title": "Sushi Rolls",
+      "image": "https://i.ibb.co/vcMD4rZ/2.jpg",
+      "description": "Sushi rolls, also known as maki, are a popular Japanese dish consisting of vinegared rice, seaweed, and various fillings such as fish, vegetables, or tofu.",
+      "category": "Japanese",
+      "textColor": "#9932CC",
+      "categoryBg": "#FFD700",
+      "cardBg": "#20B2AA",
+      "price": 15.99
+    },
+    {
+      "id": 3,
+      "title": "Caesar Salad",
+      "image": "https://i.ibb.co/ZLwP70Z/3.jpg",
+      "description": "Caesar Salad is a classic salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing. It's a refreshing and flavorful appetizer or side dish.",
+      "category": "Salad",
+      "textColor": "#FF6347",
+      "categoryBg": "#228B22",
+      "cardBg": "#87CEFA",
+      "price": 8.99
+    },
+    {
+      "id": 4,
+      "title": "Chicken Tikka",
+      "image": "https://i.ibb.co/mDDnPnW/4s.jpg",
+      "description": "Chicken Tikka Masala is a popular Indian dish made with marinated chicken cooked in a creamy tomato sauce with aromatic spices. It's rich, spicy, and full of flavor.",
+      "category": "Indian",
+      "textColor": "#4169E1",
+      "categoryBg": "#FF4500",
+      "cardBg": "#FF69B4",
+      "price": 17.99
+    },
+    {
+      "id": 5,
+      "title": "Chocolate Fondue",
+      "image": "https://i.ibb.co/ccqQzQ8/5.webp",
+      "description": "Chocolate Fondue is a fun and indulgent dessert where pieces of fruit, marshmallows, or cake are dipped into melted chocolate. It's perfect for sharing and entertaining.",
+      "category": "Dessert",
+      "textColor": "#FF8C00",
+      "categoryBg": "#8B4513",
+      "cardBg": "#9370DB",
+      "price": 10.99
+
+    },
+    {
+      "id": 6,
+      "title": "Caprese Salad",
+      "image": "https://i.ibb.co/mvn2ZSj/7.webp",
+      "description": "Caprese Salad is a simple Italian salad made with fresh tomatoes, mozzarella cheese, basil leaves, olive oil, and balsamic vinegar. It's light, refreshing, and bursting with flavor.",
+      "category": "Italian",
+      "textColor": "#00CED1",
+      "categoryBg": "#228B22",
+      "cardBg": "#FFD700",
+      "price": 9.99
+    },
+    {
+      "id": 7,
+      "title": "Beef Stroganoff",
+      "image": "https://i.ibb.co/VD728P2/6.webp",
+      "description": "Beef Stroganoff is a Russian dish made with sautéed beef strips, mushrooms, onions, and a sour cream sauce. It's served over egg noodles or rice and is hearty and comforting.",
+      "category": "Japanese",
+      "textColor": "#B22222",
+      "categoryBg": "#800000",
+      "cardBg": "#32CD32",
+      "price": 16.99
+    },
+    {
+      "id": 8,
+      "title": "Mango Sticky",
+      "image": "https://i.ibb.co/Fm4R86g/8.jpg",
+      "description": "Mango Sticky Rice is a popular Thai dessert made with sweet sticky rice, ripe mango slices, and a coconut milk sauce. It's a delicious combination of flavors and textures.",
+      "category": "Salad",
+      "textColor": "#FF1493",
+      "categoryBg": "#FFD700",
+      "cardBg": "#FFA500",
+      "price": 11.99
+    },
+    {
+      "id": 9,
+      "title": "Eggplant Parm",
+      "image": "https://i.ibb.co/C6hz912/9.webp",
+      "description": "Eggplant Parmesan is an Italian-American dish made with breaded and fried eggplant slices layered with marinara sauce and cheese, then baked until bubbly and golden.",
+      "category": "Russian",
+      "textColor": "#6A5ACD",
+      "categoryBg": "#CD5C5C",
+      "cardBg": "#6495ED",
+      "price": 13.99
+    },
+    {
+      "id": 10,
+      "title": "Tiramisu",
+      "image": "https://i.ibb.co/mDDnPnW/4s.jpg",
+      "description": "Tiramisu is a classic Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder. It's creamy, indulgent, and perfect for special occasions.",
+      "category": "Thai",
+      "textColor": "#3CB371",
+      "categoryBg": "#8B4513",
+      "cardBg": "#F08080",
+      "price": 14.99
+    },
+    {
+      "id": 11,
+      "title": "Gyoza Dumplings",
+      "image": "https://i.ibb.co/vcMD4rZ/2.jpg",
+      "description": "Gyoza are Japanese dumplings filled with ground meat and vegetables, wrapped in thin dough, and pan-fried until crispy. They're often served with a dipping sauce and make a delicious appetizer or snack.",
+      "category": "Italian",
+      "textColor": "#FF8C00",
+      "categoryBg": "#FFD700",
+      "cardBg": "#32CD32",
+      "price": 25.35
+    },
+    {
+      "id": 12,
+      "title": "Miso Soup",
+      "image": "https://i.ibb.co/mvn2ZSj/7.webp",
+      "description": "Miso Soup is a traditional Japanese soup made with dashi broth, miso paste, tofu, seaweed, and green onions. It's warm, comforting, and full of umami flavor.",
+      "category": "Dessert",
+      "textColor": "#FF6347",
+      "categoryBg": "#FFD700",
+      "cardBg": "#20B2AA",
+      "price": 20.44
+    }
+  ]
+  
